@@ -279,7 +279,3 @@ defaults:
       comments: # true
       share: true
       related: true
-
-sidebar:
-  title: "Sample Title"
-  nav: docs
