@@ -11,8 +11,6 @@ main:
   - title: "Sitemap"
     # url: /sitemap/
 
-
-
 docs:
   - title: Getting Started
     children:
@@ -58,6 +56,3 @@ docs:
       - title: "JavaScript"
         url: /docs/javascript/
 
-sidebar:
-  title: "Sample Title"
-  nav: docs
