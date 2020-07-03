@@ -99,9 +99,9 @@ author:
   location         : "Pohang, Republic of Korea"
   email            : "21500404@handong.edu"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "21500404@handong.edu"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: "21500404@handong.edu"
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
