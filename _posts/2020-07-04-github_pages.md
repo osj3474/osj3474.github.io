@@ -212,13 +212,10 @@ main:
 
 끝으로 github page를 사용하기 위해 이해한 내용을 영상으로 정리해보았습니다.
 
-* 내가 이해한 git clone
+* <a href="https://www.youtube.com/watch?v=G-8A1w-YD_k&feature=youtu.be" target="_blank"> 내가 이해한 git clone </a>
 
-=> https://www.youtube.com/watch?v=G-8A1w-YD_k&feature=youtu.be
+* <a href="https://www.youtube.com/watch?v=Dz9SGB7kO4c&t=218s" target="_blank"> 내가 이해한 github pages  </a>
 
-* 내가 이해한 github pages 
-
-=> https://www.youtube.com/watch?v=Dz9SGB7kO4c&feature=youtu.be
 
 
 
