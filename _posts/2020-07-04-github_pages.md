@@ -210,47 +210,11 @@ main:
 
 ## 10단계 
 
-끝으로 github page를 사용하기 위해 이해한 내용을 영상으로 정리해보았습니다.
+끝으로 github page를 사용하기 위해 이해한 내용을 영상으로 정리해보았습니다. (클릭하시면 바로 유투브로 넘어가니 당황하지 마시고.. :))
 
 * <a href="https://www.youtube.com/watch?v=G-8A1w-YD_k&feature=youtu.be" target="_blank"> 내가 이해한 git clone </a>
 
 * <a href="https://www.youtube.com/watch?v=Dz9SGB7kO4c&t=218s" target="_blank"> 내가 이해한 github pages  </a>
-
-
-
-
-
-
-
-
-## (option) 마크다운에서 수식을 쓸 수 있도록 링크를 추가합니다.
-
-1) _include 폴더 안에, mathias_support.html 파일을 만들고 다음의 내용을 채워넣습니다.
-
-```html
-<script type="text/x-mathjax-config">
-MathJax.Hub.Config({
-tex2jax: {inlineMath: [['$','$'],['\\(','//)']]}
-});
-</script>
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-```
-
-
-
-2) _layout 폴더 안에 defult.html 파일을 열어서 head 안의 내용을 이렇게 수정합니다.
-
-```html
-<head>
-{% include head.html %}
-{% include head/custom.html %}
-{% if page.use_math %}
-{% include mathjax_support.html %}
-{% endif %}
-</head>
-```
-
-
 
 
 
