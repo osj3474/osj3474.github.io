@@ -2,11 +2,11 @@
 main:
   - title: "Manual"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "menuA"
-    # url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "menuB"
-    # url: /year-archive/
-  - title: "menuC" 
-    # url: /collection-archive/
-  - title: "menuD"
-    # url: /sitemap/
+  # - title: "menuA"
+  # url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "menuB"
+  # url: /year-archive/
+  # - title: "menuC"
+  # url: /collection-archive/
+  # - title: "menuD"
+  # url: /sitemap/
