@@ -2,8 +2,8 @@
 main:
   - title: "Manual"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "menuA"
-  # url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Github"
+    url: https://github.com/osj3474/
   # - title: "menuB"
   # url: /year-archive/
   # - title: "menuC"
