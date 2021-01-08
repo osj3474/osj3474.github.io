@@ -1,5 +1,7 @@
 ---
 title: 알고리즘과 친해지기 2
+categories:
+   - algorithm
 ---
 
 # 지나왔던 시간을 되돌아보며

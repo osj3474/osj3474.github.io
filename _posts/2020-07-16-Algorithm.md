@@ -1,5 +1,7 @@
 ---
 title: 알고리즘과 친해지기
+categories:
+   - algorithm
 ---
 
 # 백준, 프로그래머스

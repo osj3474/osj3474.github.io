@@ -1,5 +1,7 @@
 ---
 title : 블로그를 시작하려는 분들을 위한 정리
+categories:
+   - etc
 ---
 
 # Github pages

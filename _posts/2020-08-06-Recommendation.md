@@ -1,5 +1,7 @@
 ---
 title: 추천 시스템
+categories:
+   - project
 ---
 
 # 나에게 딱 맞는 식당은 어딜까?
