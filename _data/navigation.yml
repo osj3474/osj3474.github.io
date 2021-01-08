@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Manual"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Category"
+    url: https://osj3474.github.io/categories/
   - title: "Github"
     url: https://github.com/osj3474/
   # - title: "menuB"
