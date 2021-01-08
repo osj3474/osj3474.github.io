@@ -1,5 +1,7 @@
 ---
 title: 웹사이트 호스팅 (Github pages편)
+categories:
+   - web
 ---
 
 # 정적 웹사이트 호스팅하기

@@ -1,5 +1,7 @@
 ---
 title: 대학교 졸업, 나의 다음 스텝
+categories:
+   - daily
 ---
 
 <br>

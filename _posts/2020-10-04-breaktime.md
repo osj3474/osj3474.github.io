@@ -1,5 +1,7 @@
 ---
 title: 새로운 크롤링 방법
+categories:
+   - data
 ---
 
 <br>
