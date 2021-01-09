@@ -67,10 +67,14 @@
       }
     }
   }
+
+  .page__date{
+    float: right;
+  }
   
   .page__title {
     text-align: center;
-    line-height: 1;
+    line-height: 2;
   
     & + .page__meta {
       margin-top: -0.5em;
