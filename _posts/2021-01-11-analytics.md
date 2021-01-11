@@ -25,7 +25,7 @@ categories:
 
 저는 구글 애널리틱스, 네이버 애널리틱스를 둘 다 연결했고, 어떤 차이점이 있는지는 잘 정리된 내용이 있어 첨부합니다.
 
-<a href="https://polygonstudio.tistory.com/158">[구글 애널리틱스와 네이버 애널리틱스의 차이점] </a>
+<a href="https://polygonstudio.tistory.com/158" target='_blank'>[구글 애널리틱스와 네이버 애널리틱스의 차이점] </a>
 
 <br>
 
