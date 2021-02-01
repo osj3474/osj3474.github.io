@@ -1,5 +1,5 @@
 ---
-title: \[웹\] 웹사이트 호스팅 (AWS편)
+title: \[Web\] 웹사이트 호스팅 (AWS편)
 categories:
    - web
 ---

@@ -1,5 +1,5 @@
 ---
-title: \[프로젝트\] 추천 시스템
+title: \[Project\] 추천 시스템
 categories:
    - project
 ---

@@ -1,5 +1,5 @@
 ---
-title: 아침에 하는 일(일상)
+title: \[Daily\] 아침에 하는 일(일상)
 categories:
    - daily
 ---
