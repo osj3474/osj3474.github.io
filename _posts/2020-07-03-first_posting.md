@@ -1,5 +1,5 @@
 ---
-title : "블로그를 시작하기로 마음 먹은 날"
+title : \[Daily\]"블로그를 시작하기로 마음 먹은 날"
 categories:
    - daily
 ---
