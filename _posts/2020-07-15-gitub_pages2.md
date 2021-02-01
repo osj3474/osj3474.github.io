@@ -1,5 +1,5 @@
 ---
-title: 웹사이트 호스팅 (Github pages편)
+title: \[웹\] 웹사이트 호스팅 (Github pages편)
 categories:
    - web
 ---

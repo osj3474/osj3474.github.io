@@ -1,5 +1,5 @@
 ---
-title: 알고리즘과 친해지기 2
+title: \[알고리즘\] 알고리즘과 친해지기 2
 categories:
    - algorithm
 ---

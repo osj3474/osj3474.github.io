@@ -1,5 +1,5 @@
 ---
-title: 새로운 크롤링 방법
+title: \[데이터\] 새로운 크롤링 방법
 categories:
    - data
 ---
