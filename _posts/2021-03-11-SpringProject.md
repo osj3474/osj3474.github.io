@@ -22,9 +22,9 @@ Spring으로 웹 최종 프로젝트를 진행(2주) 끝으로 신입사원 공�
 
   
 
-  1. <a href="https://github.com/BAECHOOs/Spring-toyproject/blob/main/share%20knowhow/%5BGit%5D%20Github%20for%20collaboration.md">git으로 협업하기</a>
+  1. <a href="https://github.com/BAECHOOs/Spring-toyproject/blob/main/share%20knowhow/%5BGit%5D%20Github%20for%20collaboration.md" target='_blank'>git으로 협업하기</a>
 
-  2. <a href="https://github.com/BAECHOOs/Spring-toyproject/blob/main/share%20knowhow/%5BGit%5D%20Git%20project.md">git project 사용하기</a>
+  2. <a href="https://github.com/BAECHOOs/Spring-toyproject/blob/main/share%20knowhow/%5BGit%5D%20Git%20project.md" target='_blank'>git project 사용하기</a>
 
   
 
@@ -92,7 +92,9 @@ Spring으로 웹 최종 프로젝트를 진행(2주) 끝으로 신입사원 공�
 
 블로그 포스팅이 늦어서 각 화면을 캡처하지는 못하게 되었지만, 시연 영상이 있어서 다행이었습니다.
 
-https://youtu.be/z3pV8BsfHhg
+<a href="https://youtu.be/z3pV8BsfHhg" target='_blank'>[최종 결과물 시연 영상]</a>
+
+
 
 
 
