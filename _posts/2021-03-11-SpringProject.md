@@ -1,5 +1,6 @@
 ---
 title: \[Project\] 살아있음을 느낀, 프로젝트
+excerpt: "Spring으로 하나의 서비스 만들기"
 categories:
    - project
 ---
