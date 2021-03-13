@@ -1,5 +1,5 @@
 ---
-title: \[Daily\] 살아있음을 느낀, 프로젝트
+title: \[Project\] 살아있음을 느낀, 프로젝트
 categories:
    - project
 ---
