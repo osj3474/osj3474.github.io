@@ -1,20 +1,21 @@
 ---
 title: \[Daily\] 부서 배치 후 교육
+excerpt: "MS, 그리고 닷넷,,"
 categories:
    - daily
 ---
 
 <br>
 
-AD라고 하면 어떤게 떠오르시나요? 저는 가장 먼저 Adverisement(광고)가 떠올릅니다. 또, EXO라고 하면 어떤게 떠오르시나요? 저는 '으르렁' 의 그 가수 그룹이 떠오릅니다. 부서 배치를 받고 난 지금,
+***AD***  라고 하면 어떤게 떠오르시나요? 저는 가장 먼저 Adverisement(광고)가 떠올릅니다.
+
+또, ***EXO*** 라고 하면 어떤게 떠오르시나요? 저는 '으르렁' 의 그 가수 그룹이 떠오릅니다. 부서 배치를 받고 난 지금, 제게 있어서 AD와 EXO는 이제,
+
+
 
 <br>
 
 # M365 Security
-
-제게 있어서 AD와 EXO는 이제,
-
-
 
 ⚡ **AD => Active Directory의 약자로, 윈도우 컴퓨터의 '인증 서비스' 제공함**
 
@@ -24,7 +25,7 @@ AD라고 하면 어떤게 떠오르시나요? 저는 가장 먼저 Adverisement(
 
 
 
- 저는 방배에 있는 회사에서 최종 부서 배치를 받았고, 지난 주 동안 MS365 Security 서비스에 대한 교육을 받았습니다. 왜냐하면, 현 부서에서 하고 있는 일이 회사의 기존 서버를 클라우드 환경으로 마이그레이션 하는 일이기 때문입니다.
+ 저는 DWP(Digital Work Place) 개발팀으로 최종 배치를 받았고, 지난 주 동안 MS365 Security 서비스에 대한 교육을 받았습니다. 왜냐하면, 현 부서에서 하고 있는 일이 회사의 기존 서버를 클라우드 환경으로 마이그레이션 하는 일이기 때문입니다.
 
  AWS나 GCP는 몰라도 Azure 관련 서비스는 한 번도 사용해 본적이 없었기 때문에, 이번 교육은 모르는 용어 투성이였습니다. 그래도 단순히 서버 자원만 쓰는게 아니라, SSO(single sign on)가 어떻게 쓰이는지, 언제부터인가 제 컴퓨터에 깔려 있는 DLP(data loss prevention)를 정책팁(알림, 경고)으로 어떻게 사용하는지 등에 대해서도 배울 수 있었습니다.
 
@@ -50,15 +51,15 @@ AD라고 하면 어떤게 떠오르시나요? 저는 가장 먼저 Adverisement(
 
 MS365 필기 내용
 
-- <a href="https://github.com/osj3474/study/blob/master/MS%EC%A0%9C%ED%92%88/M365-1%EC%9D%BC%EC%B0%A8.md">1일차</a>
-- <a href="https://github.com/osj3474/study/blob/master/MS%EC%A0%9C%ED%92%88/M365-2%EC%9D%BC%EC%B0%A8.md">2일차</a>
-- <a href="https://github.com/osj3474/study/blob/master/MS%EC%A0%9C%ED%92%88/M365-3%EC%9D%BC%EC%B0%A8.md">3일차</a>
+- <a href="https://github.com/osj3474/study/blob/master/MS%EC%A0%9C%ED%92%88/M365-1%EC%9D%BC%EC%B0%A8.md" target='_blank' >1일차</a>
+- <a href="https://github.com/osj3474/study/blob/master/MS%EC%A0%9C%ED%92%88/M365-2%EC%9D%BC%EC%B0%A8.md" target='_blank' >2일차</a>
+- <a href="https://github.com/osj3474/study/blob/master/MS%EC%A0%9C%ED%92%88/M365-3%EC%9D%BC%EC%B0%A8.md" target='_blank' >3일차</a>
 
 
 
+<br>
 
-
-이 그림 보면 기분 좋아지지 않나요? 😀
+이 그림 보면 기분 좋아지지 않나요? 😀 뜬금없지만,, :)
 
 
 
