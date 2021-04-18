@@ -66,8 +66,9 @@ categories:
 1) 글도 쓰고
 
 <div align=center>
-  <img src="/_raw/0418-1.png">
+  <img src="/assets/images/0418-1.png">
 </div>
+
 
 
 
@@ -79,8 +80,9 @@ categories:
 2) 리뷰도 하고 있답니다.
 
 <div align=center>
-  <img src="/_raw/0418-2.png">
+  <img src="/assets/images/0418-2.png">
 </div>
+
 <br>
 
 
