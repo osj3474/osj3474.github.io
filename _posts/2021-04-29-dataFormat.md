@@ -1,5 +1,5 @@
 ---
-title: \[Data\] 클라이언트와 서버간 메세지 표준 규격
+title: \[Data\] 메세지 표준 규격
 excerpt: "JSON, yaml, xml를 알아봅시다~!"
 categories:
    - data
