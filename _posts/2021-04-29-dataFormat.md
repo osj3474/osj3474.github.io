@@ -82,9 +82,9 @@ A/와 B는 팀 프로젝트를 마치고 함께 보고서를 쓰게 되었습니
 
 1. 내가 경험했던 yaml파일이 무엇이 있었지? 전 application.yml이 떠올랐습니다.
 
-   => 아하! 그래서 설정 파일을 JSON이 아닌 yaml이구나. 
+   => 아 그리고 자바 설정 파일이라서!! JSON이 아닌 yaml이구나. 
 
-   &nbsp;&nbsp;&nbsp;(<a href="">자바의 경우, UTF-16 인코딩이 필요합니다~!</a>)
+   &nbsp;&nbsp;&nbsp;(<a href="https://osj3474.github.io/data/encoding/">자바의 경우, UTF-16 인코딩이 필요합니다~!</a>)
 
    
 
