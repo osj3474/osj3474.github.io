@@ -65,7 +65,7 @@ MS365 필기 내용
 
 <img src="https://user-images.githubusercontent.com/42775225/111159621-a6a40b00-85dc-11eb-8a70-293ff935eb47.png" alt="image" style="zoom:50%;" />
 
-*Source* : <a href="http://blog.naver.com/PostView.nhn?blogId=kimmimyo5374&logNo=222215078844&parentCategoryNo=&categoryNo=6&viewDate=&isShowPopularPosts=false&from=postList">김미묘 님의 4컷 만화</a>
+*Source* : <a href="http://blog.naver.com/PostView.nhn?blogId=kimmimyo5374&logNo=222215078844&parentCategoryNo=&categoryNo=6&viewDate=&isShowPopularPosts=false&from=postList" target="_blank">김미묘 님의 4컷 만화</a>
 
 
 
