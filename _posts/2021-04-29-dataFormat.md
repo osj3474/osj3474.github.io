@@ -88,7 +88,7 @@ A/와 B는 팀 프로젝트를 마치고 함께 보고서를 쓰게 되었습니
 
    
 
-2. xml은 Mybatis로 프로젝트 할 때, Mapper로 썼었는데!
+2. xml은 Maven 프로젝트일 때, pom.xml도 있고, Mapper로도 썼었는데!
 
    => xml 사용 예시로 적으면 되겠다!
 
