@@ -1,6 +1,6 @@
 ---
 title: \[Web\] URI, URL, URN
-excerpt: "쉬어가는 타임"
+excerpt: "쉬어가는 타임 ⛱"
 categories:
    - web
 ---
@@ -24,7 +24,7 @@ categories:
 
 <br />
 
-오늘은 쉬어가는 타임으로 오늘은 **URI, URL, URN** 에 대해서 짤막하게 포스팅하고, 
+오늘은 쉬어가는 타임으로 **URI, URL, URN** 에 대해서 짤막하게 포스팅하고, 
 <br />끝에 **마크다운 팁** 을 드리려고 합니다 :)
 
 
