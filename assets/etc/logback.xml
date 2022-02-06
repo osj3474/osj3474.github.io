@@ -89,6 +89,6 @@
     <root level="${LOG_LEVEL}">
         <appender-ref ref="CONSOLE"/>
         <appender-ref ref="FILE"/>
-        <appender-ref ref="Error"/>
+        <appender-ref ref="ERROR"/>
     </root>
 </configuration>
