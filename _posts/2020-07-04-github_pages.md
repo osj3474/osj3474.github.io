@@ -175,7 +175,7 @@ author:
   name             : "Sangjin Oh"
   avatar           : "/assets/images/sangjin.jpg"     # asset폴더 안에 images폴더를 만들어서 이미지를 넣어요
   bio              : "I realize the value of data."
-  location         : "Pohang, Republic of Korea"
+  location         : "Seoul, Republic of Korea"
   email            : "21500404@handong.edu"
   links:
   - label: "GitHub"
