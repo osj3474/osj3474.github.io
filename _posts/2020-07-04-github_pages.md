@@ -176,7 +176,7 @@ author:
   avatar           : "/assets/images/sangjin.jpg"     # asset폴더 안에 images폴더를 만들어서 이미지를 넣어요
   bio              : "I realize the value of data."
   location         : "Seoul, Republic of Korea"
-  email            : "21500404@handong.edu"
+  email            : "handong3474@gmail.com"
   links:
   - label: "GitHub"
     icon: "fab fa-fw fa-github"
