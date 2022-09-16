@@ -49,9 +49,10 @@ include breadcrumbs.html %} {% endunless %} {% endif %}
       {% endunless %}
 
       <section class="page__content" itemprop="text">
-        {% if page.toc %}
+        {% if page.toc or page.toc_ads %}
         <aside class="sidebar__right {% if page.toc_sticky %}sticky{% endif %}">
           <nav class="toc">
+            {% if page.toc %}
             <header>
               <h4 class="nav__title">
                 <i class="fas fa-{{ page.toc_icon | default: 'file-alt' }}"></i>
@@ -62,6 +63,12 @@ include breadcrumbs.html %} {% endunless %} {% endif %}
             </header>
             {% include toc.html sanitize=true html=content h_min=1 h_max=6
             class="toc__menu" %}
+          {% endif %}
+        </nav>
+          <nav class="toc-custom">
+            {% if page.toc_ads %}
+              {% include GoogleAdSenseSidbar.html %}
+            {% endif %}
           </nav>
         </aside>
         {% endif %} {{ content }}
