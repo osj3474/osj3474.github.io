@@ -64,6 +64,7 @@ es는 DB이고, DB이기 때문에 당연히 데이터를 넣는 행위가 있�
 
 ElasticSearch 기본 개념을 다음과 같이 정리할 수 있습니다.
 
+- 클러스터(Cluster) : 노드의 집합
 - 노드(Node) : DB서버
 - 샤드(Shard) : 파티션
 - 인덱스(Index) : 테이블
