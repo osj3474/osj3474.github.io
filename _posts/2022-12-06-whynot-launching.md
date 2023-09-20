@@ -57,8 +57,6 @@ Why Not Here 프로젝트는 제가 봤던 영상의 중간 부분에서 쏘아 
 
 가치를 실현할 수 있는 플랫폼 서비스로 <b>탈바꿈</b>하였습니다.
 
-👉🏻 새로워진 why not here : <a href="https://why-not-here.o-r.kr" target="_blank">서비스 바로가기</a>
-
 <br />
 
 <hr />
